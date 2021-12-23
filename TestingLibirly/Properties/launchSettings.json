@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TestingLibirly": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\limbo\\source\\repos\\TestingLibirly\\TestingConsole\\bin\\Debug\\net5.0\\TestingConsole.exe",
+      "workingDirectory": "C:\\Users\\limbo\\source\\repos\\TestingLibirly\\TestingConsole"
+    }
+  }
+}
