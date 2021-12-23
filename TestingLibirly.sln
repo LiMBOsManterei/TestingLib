@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingLibirly", "TestingLibirly\TestingLibirly.csproj", "{8CE35681-342E-49EB-9A77-4D64D1B87FA5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingConsole", "TestingConsole\TestingConsole.csproj", "{7661B59A-83EA-4EC9-BBA9-FEFF8E92C106}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingLibirly", "TestingLibirly\TestingLibirly.csproj", "{8CE35681-342E-49EB-9A77-4D64D1B87FA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{8CE35681-342E-49EB-9A77-4D64D1B87FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CE35681-342E-49EB-9A77-4D64D1B87FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CE35681-342E-49EB-9A77-4D64D1B87FA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7661B59A-83EA-4EC9-BBA9-FEFF8E92C106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7661B59A-83EA-4EC9-BBA9-FEFF8E92C106}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7661B59A-83EA-4EC9-BBA9-FEFF8E92C106}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7661B59A-83EA-4EC9-BBA9-FEFF8E92C106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
